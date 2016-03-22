@@ -1,3 +1,5 @@
+# from http://samcarcagno.altervista.org/blog/basic-sound-processing-r/ AND http://www.r-bloggers.com/intro-to-sound-analysis-with-r/
+
 library(tuneR)
 
 #Functions
